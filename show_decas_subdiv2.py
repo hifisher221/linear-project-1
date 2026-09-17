@@ -1,4 +1,6 @@
 import numpy as np
+from itersubdiv import itersubdiv
+from makelist import makelist
 """
 To display a curve obtained using de Casteljau subdivision
 Used by run_decas-subdiv_g1 (or g2)
